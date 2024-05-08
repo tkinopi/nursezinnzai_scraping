@@ -1,0 +1,2 @@
+# nursezinnzai_scraping
+ナース人材バンクから求人を取得するためのコード
